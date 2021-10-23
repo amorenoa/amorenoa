@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amorenoa
 - 👀 I’m interested in cibersecurity and machine learning for finance
-- 🌱 I’m currently learning Goland
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on ... nothing for the moment, but we'll see :)
 - 📫 How to reach me ... we'll see as well!
 
